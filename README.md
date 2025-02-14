@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo semua!👋
 
-<!--
-**Andyy-Code-Hub/Andyy-Code-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Andi Hariyanto**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa** di Universitas Indraprasta PGRI.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya saat ini menjalani Pendidikan S1 Teknik Informatika.<br>
+
+Saya juga memiliki keahlian bahasa pemrograman dasar java dan javascript.<br>
+
+Selain itu saya tertarik dengan Web Developer dan sedikit memahami HTML, CSS, dan MY SQL.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https://www.github.com/Andyy-Code-Hub/) ku ya.
