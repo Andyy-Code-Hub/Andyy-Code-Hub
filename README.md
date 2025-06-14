@@ -10,7 +10,7 @@ Saya juga memiliki keahlian bahasa pemrograman dasar java dan javascript.<br>
 
 Selain itu saya tertarik dengan Web Developer dan sedikit memahami HTML, CSS, dan MY SQL.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https://www.github.com/Andyy-Code-Hub/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkdin](www.linkedin.com/in/andi-hariyanto-0b3289236) ku ya.
 
 ### Github Statistic
 <p align="left">
